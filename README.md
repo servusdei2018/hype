@@ -26,7 +26,7 @@ Hype is not a replacement for a full CMS. Hype focuses on minimalism. Sometimes 
 
 ## Installation
 
-Prebuilt binaries for Mac, Windows, and Linux are available on the [Releases](https://github.com/servusdei2018/shards/hype) page.
+Prebuilt binaries for Mac, Windows, and Linux are available on the [Releases](https://github.com/servusdei2018/hype/releases) page.
 
 ### Manual Installation
 
